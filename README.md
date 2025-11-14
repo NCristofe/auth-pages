@@ -1,11 +1,14 @@
-#  Auth Pages — Página de Autenticação Simples
+Auth Pages — Interface Simples de Autenticação
 
-Este projeto traz páginas básicas de autenticação, com design limpo e responsivo.  
-Criado para treinar **HTML**, **CSS** e **JavaScript**, o projeto inclui telas de **Login** e **Cadastro**, além de uma **página inicial (Index)** que direciona para ambas.
+Este repositório apresenta um conjunto de páginas básicas voltadas para autenticação, desenvolvidas com um visual minimalista e adaptável a diferentes telas.
+Criado com o objetivo de praticar HTML, CSS e JavaScript, o projeto reúne uma tela de Login, uma de Cadastro e uma página inicial que direciona o usuário para ambas.
 
-##  Funcionalidades
+🔧 Recursos do Projeto
 
-- Página inicial com navegação simples  
-- Página de login  
-- Página de cadastro  
-- Estrutura pronta
+Página inicial com navegação direta
+
+Tela de login funcional
+
+Tela de cadastro estruturada
+
+Base pronta para expansão e integração futura
